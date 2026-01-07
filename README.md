@@ -1,5 +1,3 @@
-Markdown
-
 # Java Selenium Fluent Interface Pattern
 
 This repository demonstrates the implementation of the **Fluent Interface Design Pattern** in a Selenium Automation Framework. The primary goal of this pattern is to improve code readability and maintainability by utilizing **Method Chaining**.
